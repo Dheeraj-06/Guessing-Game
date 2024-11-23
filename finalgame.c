@@ -5,7 +5,7 @@
 
 int guess(int n){
 	//array to store number of guesses for each player.
-	int arr[n];
+	int arr[n];//heyy
 	
 	//sequence of the game for each player using for and while loop.
 	for (int i=0; i<n; i++){
